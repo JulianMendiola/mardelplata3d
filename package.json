@@ -1,0 +1,24 @@
+{
+  "name": "mardelplata3d",
+  "version": "1.0.0",
+  "description": "Mapa 3D interactivo y estilizado de Mar del Plata, hecho con [Three.js](https://threejs.org/). Inspirado en los mapas de ciudades en 3D generados con IA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianMendiola/mardelplata3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JulianMendiola/mardelplata3d/issues"
+  },
+  "homepage": "https://github.com/JulianMendiola/mardelplata3d#readme",
+  "dependencies": {
+    "earcut": "^3.0.2"
+  }
+}
